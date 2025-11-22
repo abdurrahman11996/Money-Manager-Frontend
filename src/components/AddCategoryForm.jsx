@@ -59,6 +59,7 @@ const AddCategoryForm = ({onAddCategory, initialCategoryData, isEditing}) => {
                 isSelect={true}
                 options={categoryTypeOptions}
             />
+        
 
             <div className="flex justify-end mt-6">
                 <button
